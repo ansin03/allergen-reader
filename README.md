@@ -2,7 +2,12 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+Framework: React 19 for UI and state management.
+AI Engine: Google Gemini 3 Flash for vision-based OCR, allergen reasoning, and multi-language translation.
+Styling: Tailwind CSS for a responsive, premium iOS-style interface.
+Hardware Integration: WebRTC (MediaStream API) for live camera scanning and the HTML5 File API for gallery uploads.
+Storage: Browser LocalStorage for persistent user profiles and scan history.
+
 
 This contains everything you need to run your app locally.
 
