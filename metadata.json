@@ -1,0 +1,8 @@
+
+{
+  "name": "AllergenSafe Scanner",
+  "description": "A smart label reader that identifies allergens in any language using AI vision. Perfect for safe shopping and dining.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
